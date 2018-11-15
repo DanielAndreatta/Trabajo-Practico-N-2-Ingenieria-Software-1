@@ -13,11 +13,11 @@
       </counter>
       <counter>
         <item-type type-id="use-case" type="UmlUseCase" />
-        <value>22</value>
+        <value>26</value>
       </counter>
       <counter>
         <item-type type-id="actor" type="UmlActor" />
-        <value>18</value>
+        <value>20</value>
       </counter>
       <counter>
         <item-type type-id="class" type="UmlClass" />
@@ -31,15 +31,15 @@
       </counter>
       <counter>
         <item-type type-id="use-case" type="UmlUseCase" />
-        <value>23</value>
+        <value>27</value>
       </counter>
       <counter>
         <item-type type-id="actor" type="UmlActor" />
-        <value>19</value>
+        <value>21</value>
       </counter>
       <counter>
         <item-type type-id="relationship" type="UmlAssociation" />
-        <value>75</value>
+        <value>82</value>
       </counter>
       <counter>
         <item-type type-id="class" type="UmlClass" />
@@ -71,13 +71,13 @@
       </counter>
       <counter>
         <item-type type-id="" type="AbstractElementGroup" />
-        <value>64</value>
+        <value>140</value>
       </counter>
     </entity-ids>
     <diagrams>
       <counter>
         <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlUseCaseDiagram</type>
-        <value>6</value>
+        <value>7</value>
       </counter>
       <counter>
         <type>SoftwareIdeasModeler.Core.Diagrams.UmlDiagrams.UmlClassDiagram</type>
@@ -130,7 +130,7 @@
       </meta>
       <abstract-items />
       <sub-models />
-      <diagram type="uml-usecase" id="pda915c4cb3654d6b8945e1e48ea72e1b_124440348" name="Modelo del Negocio" order-index="1" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-10,13" zoom="0.7014285">
+      <diagram type="uml-usecase" id="pda915c4cb3654d6b8945e1e48ea72e1b_124440348" name="Modelo del Negocio" order-index="1" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-12,-66" zoom="0.7014285">
         <style>
           <background-color index="1" color="#FFAAD5FF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -1454,7 +1454,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="pb4c82fbe3c8546dbb101e457c32155b6_203197631" name="Gestionar Producto" order-index="8" overview-order-index="6" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-21,57" zoom="0.7">
+      <diagram type="uml-usecase" id="pb4c82fbe3c8546dbb101e457c32155b6_203197631" name="Gestionar Productos" order-index="8" overview-order-index="6" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-21,57" zoom="0.7">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -1744,6 +1744,143 @@
               </points>
             </layout>
             <relation from="die8e66ddf126a42eb9fd9890c23368aa04691" from-iid="0dab4c8ed1784ded80b786c8fb8f4a4d" to="di53ef11104ee14916a66ac5335a521c793161" to-iid="a6398a5baca8401e9c41fb74c65873ad" />
+          </item>
+        </layer>
+      </diagram>
+      <diagram type="uml-usecase" id="p73d8854f08ee4b0fa3953aee8d797c5a_729271000" name="Gestionar Estadisticas" order-index="9" overview-order-index="7" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+        <style>
+          <background-color index="1" color="#FFFFFFFF" />
+          <background-color index="2" color="#FFFFFFFF" />
+          <background-type type="solid" />
+        </style>
+        <meta>
+          <authors>
+            <author> </author>
+          </authors>
+          <description />
+          <creation-date>11/15/2018 19:12:29</creation-date>
+          <change-date>11/15/2018 19:23:01</change-date>
+          <revision-count>0</revision-count>
+          <version />
+        </meta>
+        <abstract-items>
+          <item id="9ddd736252e94a86adcd839603542498" cid="AC019" type="actor" name="Gerente" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:20:50">
+            <style class="default" />
+          </item>
+          <item id="5610c5febb2b4c849f9ec32e80dd77a7" cid="AC020" type="actor" name="Tiempo" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:20:53">
+            <style class="default" />
+          </item>
+          <item id="7d055dd532e84a04b2bec61996b33541" cid="UC023" type="use-case" name="Generar estadistica rubro" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:21:20">
+            <style class="default" />
+            <use-case>
+              <stakeholders />
+            </use-case>
+          </item>
+          <item id="d2ec4a40942e4d7fb78986f8846c39cc" cid="UC024" type="use-case" name="Generar estadistica venta" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:21:23">
+            <style class="default" />
+            <use-case>
+              <stakeholders />
+            </use-case>
+          </item>
+          <item id="ae9736caa3af46dca49efa36e1b5a606" cid="UC025" type="use-case" name="Generar estadistica stock minimo" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:21:26">
+            <style class="default" />
+            <use-case>
+              <stakeholders />
+            </use-case>
+          </item>
+          <item id="03880d32201d45729907de3bc34f5a24" cid="UC026" type="use-case" name="Generar informe" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:21:37">
+            <style class="default" />
+            <use-case>
+              <stakeholders />
+            </use-case>
+          </item>
+          <item id="c977416d960c4c49ae23b338e6b82fd7" cid="REL077" type="relationship" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:22:36" from="5610c5febb2b4c849f9ec32e80dd77a7" to="03880d32201d45729907de3bc34f5a24">
+            <style class="default" />
+            <relation from="5610c5febb2b4c849f9ec32e80dd77a7" to="03880d32201d45729907de3bc34f5a24">
+              <start-role id="umlar-d1e81653-bf77-4860-b0b4-7bc3182750e1" name="" navigability="" association-type="association" visibility="private" />
+              <end-role id="umlar-eec421cf-0a3b-41d9-9b66-94815eaab367" name="" navigability="" association-type="association" visibility="private" />
+            </relation>
+          </item>
+          <item id="51bfb0d825c34f8483559dd24aaedd2d" cid="REL078" type="relationship" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:22:45" from="9ddd736252e94a86adcd839603542498" to="7d055dd532e84a04b2bec61996b33541">
+            <style class="default" />
+            <relation from="9ddd736252e94a86adcd839603542498" to="7d055dd532e84a04b2bec61996b33541">
+              <start-role id="umlar-29e1c1e4-70a0-43a9-b620-1d1bf4ee7975" name="" navigability="" association-type="association" visibility="private" />
+              <end-role id="umlar-521277f4-52bf-47df-aa65-0402b5f6a890" name="" navigability="" association-type="association" visibility="private" />
+            </relation>
+          </item>
+          <item id="c24e5e9fc2414c22b2ed7cdf22b6a4c7" cid="REL080" type="relationship" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:22:56" from="9ddd736252e94a86adcd839603542498" to="d2ec4a40942e4d7fb78986f8846c39cc">
+            <style class="default" />
+            <relation from="9ddd736252e94a86adcd839603542498" to="d2ec4a40942e4d7fb78986f8846c39cc">
+              <start-role id="umlar-af648779-5b8e-453d-b794-ee8b43710bd1" name="" navigability="" association-type="association" visibility="private" />
+              <end-role id="umlar-7b2156aa-9d09-4f4d-af3f-aeb6ad7137f3" name="" navigability="" association-type="association" visibility="private" />
+            </relation>
+          </item>
+          <item id="879e222aeac94d8e957c737e95a77e66" cid="REL081" type="relationship" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:23:01" from="9ddd736252e94a86adcd839603542498" to="ae9736caa3af46dca49efa36e1b5a606">
+            <style class="default" />
+            <relation from="9ddd736252e94a86adcd839603542498" to="ae9736caa3af46dca49efa36e1b5a606">
+              <start-role id="umlar-b5d00257-215d-49e2-b077-a9db9bd481b8" name="" navigability="" association-type="association" visibility="private" />
+              <end-role id="umlar-751fe3ea-34cc-4155-8255-91dbd5c081f0" name="" navigability="" association-type="association" visibility="private" />
+            </relation>
+          </item>
+        </abstract-items>
+        <layer id="52e1272080814caeb3302cefdef7634f" name="Default" visible="true" enabled="true" locked="false">
+          <item id="9ddd736252e94a86adcd839603542498" iid="bb2f0dfe3395434a88766020d8af5061" creation-date="11/15/2018 19:20:50" order-index="0" type="entity">
+            <layout ax="339" ay="172" awidth="50" aheight="100" x="339" y="172" width="50" height="100" name-position="0,9.999991" name-anchor="bottom" auto-anchor="true" label-attached="false" />
+          </item>
+          <item id="7d055dd532e84a04b2bec61996b33541" iid="3dce899497ef445dac2eb1256cb9b5a5" creation-date="11/15/2018 19:21:20" order-index="2" type="entity">
+            <layout ax="564" ay="77" awidth="120" aheight="75" x="564" y="77" width="120" height="75" />
+            <use-case />
+          </item>
+          <item id="d2ec4a40942e4d7fb78986f8846c39cc" iid="560fd5e97d23479c9b5d4ff4abac5214" creation-date="11/15/2018 19:21:23" order-index="3" type="entity">
+            <layout ax="564" ay="197" awidth="120" aheight="75" x="564" y="197" width="120" height="75" />
+            <use-case />
+          </item>
+          <item id="ae9736caa3af46dca49efa36e1b5a606" iid="87155b969de1403eb15e6da398716fbe" creation-date="11/15/2018 19:21:26" order-index="4" type="entity">
+            <layout ax="578" ay="323" awidth="120" aheight="75" x="578" y="323" width="120" height="75" />
+            <use-case />
+          </item>
+          <item id="5610c5febb2b4c849f9ec32e80dd77a7" iid="51b9cdea378248e2bcbd71a8e57358f1" creation-date="11/15/2018 19:20:53" order-index="1" type="entity">
+            <layout ax="347" ay="398" awidth="50" aheight="100" x="347" y="398" width="50" height="100" name-position="0,10.00002" name-anchor="bottom" auto-anchor="true" label-attached="false" />
+          </item>
+          <item id="51bfb0d825c34f8483559dd24aaedd2d" iid="7f42737ced394015a02cdf09f7d1afc0" creation-date="11/15/2018 19:22:45" order-index="7" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" start-multiplicity-position="25,-15" end-multiplicity-position="25,15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="389" y1="207" x2="564" y2="120" start-border-pos="0.3375" end-border-pos="0.856666666666667" name-position="0,0">
+              <points>
+                <point x="389" y="207" />
+                <point x="564" y="120" />
+              </points>
+            </layout>
+            <relation from="9ddd736252e94a86adcd839603542498" from-iid="bb2f0dfe3395434a88766020d8af5061" to="7d055dd532e84a04b2bec61996b33541" to-iid="3dce899497ef445dac2eb1256cb9b5a5" />
+          </item>
+          <item id="03880d32201d45729907de3bc34f5a24" iid="a80a7231e205416f917f51e8d59cf346" creation-date="11/15/2018 19:21:37" order-index="5" type="entity">
+            <layout ax="578" ay="434.5" awidth="120" aheight="75" x="578" y="434.5" width="120" height="75" />
+            <use-case />
+          </item>
+          <item id="c24e5e9fc2414c22b2ed7cdf22b6a4c7" iid="bc72a4cf90b3496aa4670f230bb5b390" creation-date="11/15/2018 19:22:56" order-index="8" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" start-multiplicity-position="25,-15" end-multiplicity-position="25,15" line-style="oblique" lock-start-point="true" lock-end-point="false" lock-to-fields="false" auto-path="" x1="389" y1="232" x2="564" y2="233" start-border-pos="0.4" end-border-pos="0.878368784586589" name-position="0,0">
+              <points>
+                <point x="389" y="232" />
+                <point x="564" y="233" />
+              </points>
+            </layout>
+            <relation from="9ddd736252e94a86adcd839603542498" from-iid="bb2f0dfe3395434a88766020d8af5061" to="d2ec4a40942e4d7fb78986f8846c39cc" to-iid="560fd5e97d23479c9b5d4ff4abac5214" />
+          </item>
+          <item id="c977416d960c4c49ae23b338e6b82fd7" iid="674dd35daf4f48a8ac78fd4ca45e3f11" creation-date="11/15/2018 19:22:36" order-index="6" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" start-multiplicity-position="25,-15" end-multiplicity-position="25,15" line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="397" y1="448" x2="579" y2="465" start-border-pos="0.375" end-border-pos="0.898333333333333" name-position="0,0">
+              <points>
+                <point x="397" y="448" />
+                <point x="579" y="465" />
+              </points>
+            </layout>
+            <relation from="5610c5febb2b4c849f9ec32e80dd77a7" from-iid="51b9cdea378248e2bcbd71a8e57358f1" to="03880d32201d45729907de3bc34f5a24" to-iid="a80a7231e205416f917f51e8d59cf346" />
+          </item>
+          <item id="879e222aeac94d8e957c737e95a77e66" iid="210b5249217e4b52b4de94faa84805d7" creation-date="11/15/2018 19:23:01" order-index="9" type="relation">
+            <layout start-role-position="25,15" end-role-position="25,-15" start-multiplicity-position="25,-15" end-multiplicity-position="25,15" line-style="oblique" lock-start-point="true" lock-end-point="false" lock-to-fields="false" auto-path="" x1="389" y1="272" x2="588" y2="339" start-border-pos="0.5" end-border-pos="0.947349446614583" name-position="0,0">
+              <points>
+                <point x="389" y="272" />
+                <point x="588" y="339" />
+              </points>
+            </layout>
+            <relation from="9ddd736252e94a86adcd839603542498" from-iid="bb2f0dfe3395434a88766020d8af5061" to="ae9736caa3af46dca49efa36e1b5a606" to-iid="87155b969de1403eb15e6da398716fbe" />
           </item>
         </layer>
       </diagram>
