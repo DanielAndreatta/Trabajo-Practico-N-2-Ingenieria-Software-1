@@ -13,7 +13,7 @@
       </counter>
       <counter>
         <item-type type-id="use-case" type="UmlUseCase" />
-        <value>21</value>
+        <value>22</value>
       </counter>
       <counter>
         <item-type type-id="actor" type="UmlActor" />
@@ -31,7 +31,7 @@
       </counter>
       <counter>
         <item-type type-id="use-case" type="UmlUseCase" />
-        <value>22</value>
+        <value>23</value>
       </counter>
       <counter>
         <item-type type-id="actor" type="UmlActor" />
@@ -59,7 +59,7 @@
       </counter>
       <counter>
         <item-type type-id="include" type="UmlInclude" />
-        <value>15</value>
+        <value>17</value>
       </counter>
       <counter>
         <item-type type-id="comment-connector" type="UmlCommentConnector" />
@@ -71,7 +71,7 @@
       </counter>
       <counter>
         <item-type type-id="" type="AbstractElementGroup" />
-        <value>41</value>
+        <value>64</value>
       </counter>
     </entity-ids>
     <diagrams>
@@ -1142,7 +1142,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="pc906180ddba84f0ba9064a13c9f97a9e_726333896" name="Gestionar Compra a Proveedor" order-index="7" overview-order-index="5" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,-59">
+      <diagram type="uml-usecase" id="pc906180ddba84f0ba9064a13c9f97a9e_726333896" name="Gestionar Compra a Proveedor" order-index="7" overview-order-index="5" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,-22">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -1154,7 +1154,7 @@
           </authors>
           <description />
           <creation-date>11/15/2018 15:23:29</creation-date>
-          <change-date>11/15/2018 16:09:08</change-date>
+          <change-date>11/15/2018 19:12:14</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
@@ -1278,6 +1278,18 @@
             <style class="default" />
           </item>
           <item id="d4fdc07ae23c42d796b00f03f6e15e3c" cid="INC014" type="include" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 16:09:08" from="eabecf68c3bc4d49a86038652bc32268" to="fceae868faa9407b9a1aa3b37aef7f73">
+            <stereotypes>
+              <stereotype name="include" />
+            </stereotypes>
+            <style class="default" />
+          </item>
+          <item id="aced482300a04f1d899c6ce76b8b0d49" cid="UC022" type="use-case" name="Verificar Catalogo" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:11:17">
+            <style class="default" />
+            <use-case>
+              <stakeholders />
+            </use-case>
+          </item>
+          <item id="228eaf233f1444bf80cfebbb694e1928" cid="INC016" type="include" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/15/2018 19:12:14" from="a4bf1c31912246f2be936d60b92a090f" to="aced482300a04f1d899c6ce76b8b0d49">
             <stereotypes>
               <stereotype name="include" />
             </stereotypes>
@@ -1427,9 +1439,22 @@
             </layout>
             <relation from="eabecf68c3bc4d49a86038652bc32268" from-iid="22e484092b8347a2af95ca8f864669fe" to="fceae868faa9407b9a1aa3b37aef7f73" to-iid="03c341515fa94f31b1fc3f726a1881cc" />
           </item>
+          <item id="aced482300a04f1d899c6ce76b8b0d49" iid="e07f928e948242eba6c012deeb4a5489" creation-date="11/15/2018 19:11:17" order-index="21" type="entity">
+            <layout ax="860" ay="1" awidth="120" aheight="75" x="860" y="1" width="120" height="75" />
+            <use-case />
+          </item>
+          <item id="228eaf233f1444bf80cfebbb694e1928" iid="65272d194c8a49129acaafd4e34e1887" creation-date="11/15/2018 19:12:14" order-index="22" type="relation">
+            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="565" y1="69" x2="860" y2="38" start-border-pos="0.33" end-border-pos="0.876666666666667" name-position="0,0">
+              <points>
+                <point x="565" y="69" />
+                <point x="860" y="38" />
+              </points>
+            </layout>
+            <relation from="a4bf1c31912246f2be936d60b92a090f" from-iid="012d9d037f4f4cc08938164935253d9c" to="aced482300a04f1d899c6ce76b8b0d49" to-iid="e07f928e948242eba6c012deeb4a5489" />
+          </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="pb4c82fbe3c8546dbb101e457c32155b6_203197631" name="Gestionar Producto" order-index="8" overview-order-index="6" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-18,93" zoom="0.6">
+      <diagram type="uml-usecase" id="pb4c82fbe3c8546dbb101e457c32155b6_203197631" name="Gestionar Producto" order-index="8" overview-order-index="6" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-21,57" zoom="0.7">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
