@@ -71,7 +71,7 @@
       </counter>
       <counter>
         <item-type type-id="" type="AbstractElementGroup" />
-        <value>6</value>
+        <value>9</value>
       </counter>
     </entity-ids>
     <diagrams>
@@ -407,14 +407,11 @@
           </authors>
           <description />
           <creation-date>11/08/2018 16:30:40</creation-date>
-          <change-date>11/09/2018 00:51:01</change-date>
+          <change-date>11/17/2018 17:28:05</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
         <abstract-items>
-          <item id="1029ef35b2f84ed495dd9fb387c8fc1c" cid="C001" type="class" name="Administrador" style-class="" visibility="package" change-tracking-state="added" creation-date="11/08/2018 16:37:18">
-            <style class="default" />
-          </item>
           <item id="difd9515de28aa4fa9b3bfe78eff809bdd8397" cid="C001" type="class" name="Proveedor" style-class="" visibility="package" change-tracking-state="added" creation-date="11/08/2018 16:37:18">
             <style class="default" />
           </item>
@@ -425,9 +422,6 @@
             <style class="default" />
           </item>
           <item id="6aa25c7e57f34033b22cd6f03aba160c" cid="GNR001" type="generalization" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/08/2018 16:39:17" from="difd9515de28aa4fa9b3bfe78eff809bdd8397" to="dica7d78fa660a439e82f5994f2617d21c9772">
-            <style class="default" />
-          </item>
-          <item id="d919c9b9f23641168d6e1c82f64cdb41" cid="GNR002" type="generalization" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/08/2018 16:39:24" from="1029ef35b2f84ed495dd9fb387c8fc1c" to="dica7d78fa660a439e82f5994f2617d21c9772">
             <style class="default" />
           </item>
           <item id="0e9ea621672c411ba392243ab9e88217" cid="REL039" type="relationship" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/09/2018 00:51:01" from="e9217bb22f0241c69c7c230f595e634d" to="ab0be2403d2847ad829b357b23b72622">
@@ -509,10 +503,6 @@
           </item>
         </abstract-items>
         <layer id="d751902e1d06497cafe96f3145f42699" name="Default" visible="true" enabled="true" locked="false">
-          <item id="1029ef35b2f84ed495dd9fb387c8fc1c" iid="64dacc2bdc7c4d2582bc705cf198f6cb" creation-date="11/08/2018 16:37:18" order-index="0" type="entity">
-            <layout ax="355" ay="90.25" awidth="140" aheight="49" x="355" y="90.25" width="140" height="49" />
-            <class />
-          </item>
           <item id="difd9515de28aa4fa9b3bfe78eff809bdd8397" iid="e0a5d0e1318c44699d07469b06951e76" creation-date="11/08/2018 16:37:18" order-index="0" type="entity">
             <layout ax="135" ay="89" awidth="140" aheight="51.5" x="135" y="89" width="140" height="51.5" />
             <class />
@@ -533,15 +523,6 @@
               </points>
             </layout>
             <relation from="difd9515de28aa4fa9b3bfe78eff809bdd8397" from-iid="e0a5d0e1318c44699d07469b06951e76" to="dica7d78fa660a439e82f5994f2617d21c9772" to-iid="2b748c35b7004ddfb7f8bda69f83b4e0" />
-          </item>
-          <item id="d919c9b9f23641168d6e1c82f64cdb41" iid="a6faa61d136d4c6897a7f6acbca82847" creation-date="11/08/2018 16:39:24" order-index="3" type="relation">
-            <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="425" y1="90" x2="425" y2="-62" start-border-pos="0.125" end-border-pos="0.625" name-position="0,0">
-              <points>
-                <point x="425" y="90" />
-                <point x="425" y="-62" />
-              </points>
-            </layout>
-            <relation from="1029ef35b2f84ed495dd9fb387c8fc1c" from-iid="64dacc2bdc7c4d2582bc705cf198f6cb" to="dica7d78fa660a439e82f5994f2617d21c9772" to-iid="2b748c35b7004ddfb7f8bda69f83b4e0" />
           </item>
           <item id="7532461e80d3415a9e55e99797e8b5e8" iid="59a6ceedd7b0410b8258615e82dd5340" creation-date="11/08/2018 16:39:41" order-index="5" type="relation">
             <layout line-style="oblique" lock-start-point="true" lock-end-point="true" lock-to-fields="false" auto-path="" x1="598" y1="90" x2="495" y2="-62" start-border-pos="0.125" end-border-pos="0.5" name-position="0,0">
@@ -1454,7 +1435,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="pb4c82fbe3c8546dbb101e457c32155b6_203197631" name="Gestionar Productos" order-index="8" overview-order-index="6" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-21,57" zoom="0.7">
+      <diagram type="uml-usecase" id="pb4c82fbe3c8546dbb101e457c32155b6_203197631" name="Gestionar Productos" order-index="8" overview-order-index="6" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-21,172" zoom="0.7">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
