@@ -95,7 +95,7 @@
       </counter>
       <counter>
         <item-type type-id="" type="AbstractElementGroup" />
-        <value>93</value>
+        <value>167</value>
       </counter>
     </entity-ids>
     <diagrams>
@@ -1476,7 +1476,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="pb4c82fbe3c8546dbb101e457c32155b6_203197631" name="Gestionar Productos" order-index="8" overview-order-index="6" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-21,172" zoom="0.7">
+      <diagram type="uml-usecase" id="pb4c82fbe3c8546dbb101e457c32155b6_203197631" name="Gestionar Productos" order-index="8" overview-order-index="6" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-21,82" zoom="0.7">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -3208,7 +3208,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-sequence" id="p735030c2e31c45ba9dc1f2a1fee871ee_449509803" name="Eliminar Cliente" order-index="17" overview-order-index="15" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+      <diagram type="uml-sequence" id="p735030c2e31c45ba9dc1f2a1fee871ee_449509803" name="Eliminar Cliente" order-index="17" overview-order-index="15" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="-6,0">
         <style>
           <background-color index="1" color="#FFAAD5FF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -3680,7 +3680,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="p95b95f08e8bf4dfca0af67f8a11ef4c6_125555372" name="Registrar Producto" order-index="21" overview-order-index="19" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+      <diagram type="uml-usecase" id="p95b95f08e8bf4dfca0af67f8a11ef4c6_125555372" name="Registrar Producto" order-index="21" overview-order-index="19" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,-67">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -3798,7 +3798,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="p265722dce6c94c4187df477070926f88_337377499" name="Modificar datos Producto" order-index="22" overview-order-index="20" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+      <diagram type="uml-usecase" id="p265722dce6c94c4187df477070926f88_337377499" name="Modificar datos Producto" order-index="22" overview-order-index="20" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,29">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -3916,7 +3916,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="p5e77bfef18ba4c1e923609de8f588c8c_408065729" name="UseCaseDiagram10" order-index="23" overview-order-index="21" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+      <diagram type="uml-usecase" id="p5e77bfef18ba4c1e923609de8f588c8c_408065729" name="Eliminar Producto" order-index="23" overview-order-index="21" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,3">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -4034,7 +4034,7 @@
           </item>
         </layer>
       </diagram>
-      <diagram type="uml-usecase" id="pcca62bbae2c44319ace58f755428ecf3_292546673" name="UseCaseDiagram11" order-index="24" overview-order-index="22" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+      <diagram type="uml-usecase" id="pcca62bbae2c44319ace58f755428ecf3_292546673" name="Registrar Rubro" order-index="24" overview-order-index="22" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,23">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -4046,14 +4046,113 @@
           </authors>
           <description />
           <creation-date>11/23/2018 15:30:57</creation-date>
-          <change-date>11/23/2018 15:30:57</change-date>
+          <change-date>11/23/2018 15:39:47</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
-        <abstract-items />
-        <layer id="a7b5532422e345198314bac8c9e0edb0" name="Default" visible="true" enabled="true" locked="false" />
+        <abstract-items>
+          <item id="di095de7a1ff754105964b13e203f504445012" cid="AC002" type="actor" name="Administrador" style-class="" visibility="package" change-tracking-state="added" creator="P1ab57e078ed347c8aa40b8ce2cbd1d77" creation-date="11/08/2018 16:18:59">
+            <style class="default" />
+          </item>
+          <item id="di12e00ee4d51641efa55a6ad4f838b7bb5012" cid="AB003" type="activation-bar" name="ExecutionOccurrence3" style-class="" owner="di095de7a1ff754105964b13e203f504445012" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:44:39">
+            <style class="default" />
+          </item>
+          <item id="diacea82e7f09a41708c07cd90b16d98505012" cid="LL001" type="lifeline" name="Registrar Rubro" style-class="" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:42:25">
+            <style class="default" />
+            <lifeline classifier-name="" is-active="false" is-multi-object="false" />
+          </item>
+          <item id="di8133571b6ada4df68ea22b4b467199285012" cid="AB004" type="activation-bar" name="ExecutionOccurrence4" style-class="" owner="diacea82e7f09a41708c07cd90b16d98505012" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:44:39">
+            <style class="default" />
+            <activation-bar lifeline-ref="diacea82e7f09a41708c07cd90b16d98505012" />
+          </item>
+          <item id="di1e652771f17c4e2cb9ff9a100dc52f435012" cid="SM003" type="sequence-action" name="Message3" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:39:49">
+            <style class="default" />
+            <sequence-action type="call" message="VerificarRubro()" is-asynchronous="false" from="di8133571b6ada4df68ea22b4b467199285012" to="di0068fda47f754e738123dcf8d406b1d55012" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="di035b13b072a04014b6dd494af770c5a45012" cid="SM004" type="sequence-action" name="Message4" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:40:13">
+            <style class="default" />
+            <sequence-action type="reply" message="Rubro encontrado" is-asynchronous="false" from="di0068fda47f754e738123dcf8d406b1d55012" to="di8133571b6ada4df68ea22b4b467199285012" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="diafa5377daefb4f0a9a4be73d1b3114c35012" cid="LL002" type="lifeline" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:42:48">
+            <style class="default" />
+            <lifeline classifier-name="Rubro" classifier-ref="009b227df787466793e50c0f55a4b86b" is-active="false" is-multi-object="false" />
+          </item>
+          <item id="di44f86ba12d204a16a6bd98f7b51b22ce5012" cid="AB008" type="activation-bar" name="ExecutionOccurrence8" style-class="" owner="di132606ada0c74a8997d392d1bd93b2d65211" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:50:33">
+            <style class="default" />
+            <activation-bar lifeline-ref="di132606ada0c74a8997d392d1bd93b2d65211" />
+          </item>
+          <item id="di0068fda47f754e738123dcf8d406b1d55012" cid="AB008" type="activation-bar" name="ExecutionOccurrence8" style-class="" owner="diafa5377daefb4f0a9a4be73d1b3114c35012" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:50:33">
+            <style class="default" />
+            <activation-bar lifeline-ref="diafa5377daefb4f0a9a4be73d1b3114c35012" />
+          </item>
+          <item id="di6f420c2f04e740a7afc905ad019e8a485012" cid="SM007" type="sequence-action" name="Message7" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:44:10">
+            <style class="default" />
+            <sequence-action type="call" message="agregarRubro()" is-asynchronous="false" from="di8133571b6ada4df68ea22b4b467199285012" to="di44f86ba12d204a16a6bd98f7b51b22ce5012" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="di9d06b605c5204955bd92ffd9b88dbf525012" cid="SM009" type="sequence-action" name="Message9" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:44:33">
+            <style class="default" />
+            <sequence-action type="reply" message="ok" is-asynchronous="false" from="di44f86ba12d204a16a6bd98f7b51b22ce5012" to="di8133571b6ada4df68ea22b4b467199285012" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="di3802394e5a5e45bcb8a26d62558a50c75012" cid="SM010" type="sequence-action" name="Message10" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:45:44">
+            <style class="default" />
+            <sequence-action type="call" message="datos rubro" is-asynchronous="false" from="di12e00ee4d51641efa55a6ad4f838b7bb5012" to="di8133571b6ada4df68ea22b4b467199285012" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+        </abstract-items>
+        <layer id="a7b5532422e345198314bac8c9e0edb0" name="Default" visible="true" enabled="true" locked="false">
+          <item id="di095de7a1ff754105964b13e203f504445012" iid="a19c657afab844879f2b1a41a0dfcb4e" creation-date="11/20/2018 13:42:12" order-index="0" type="lifeline">
+            <layout ax="76" ay="50" awidth="140" aheight="463" x="76" y="50" width="140" height="463" container-layout="simple" />
+          </item>
+          <item id="di12e00ee4d51641efa55a6ad4f838b7bb5012" iid="d15e21bae6a5410dbe54513a735dcd7a" container="di095de7a1ff754105964b13e203f504445012" container-iid="a19c657afab844879f2b1a41a0dfcb4e" creation-date="11/20/2018 13:44:39" order-index="6" type="entity">
+            <layout ax="136" ay="161" awidth="20" aheight="320" x="136" y="161" width="20" height="320" />
+          </item>
+          <item id="diacea82e7f09a41708c07cd90b16d98505012" iid="d2f62fce13d840e4a41788f5147b54d8" creation-date="11/20/2018 13:42:25" order-index="1" type="lifeline">
+            <layout ax="267" ay="50" awidth="140" aheight="463" x="267" y="50" width="140" height="463" container-layout="simple" />
+          </item>
+          <item id="di8133571b6ada4df68ea22b4b467199285012" iid="06ce12ace5b143b7adb19bab1cf8007a" container="diacea82e7f09a41708c07cd90b16d98505012" container-iid="d2f62fce13d840e4a41788f5147b54d8" creation-date="11/20/2018 13:44:39" order-index="7" type="entity">
+            <layout ax="327" ay="161" awidth="20" aheight="320" x="327" y="161" width="20" height="320" />
+          </item>
+          <item id="di1e652771f17c4e2cb9ff9a100dc52f435012" iid="ec349cd171674bb099ae9fd01b7b31ae" creation-date="11/22/2018 13:39:49" order-index="10" type="sequence-action">
+            <layout x1="347" y1="197" x2="531" y2="197" ax="347" ay="182" awidth="184" aheight="20" x="347" y="182" width="184" height="20" message-x="0" message-y="-10" message-width="174" />
+            <sequence-action from="di8133571b6ada4df68ea22b4b467199285012" to="di0068fda47f754e738123dcf8d406b1d55012" show-sequence-number="false" />
+          </item>
+          <item id="di035b13b072a04014b6dd494af770c5a45012" iid="4c13c38a516a42168646e27398b1d683" creation-date="11/22/2018 13:40:13" order-index="11" type="sequence-action">
+            <layout x1="531" y1="258" x2="347" y2="258" ax="347" ay="243" awidth="184" aheight="20" x="347" y="243" width="184" height="20" message-x="0" message-y="-10" message-width="130" />
+            <sequence-action from="di0068fda47f754e738123dcf8d406b1d55012" to="di8133571b6ada4df68ea22b4b467199285012" show-sequence-number="false" />
+          </item>
+          <item id="diafa5377daefb4f0a9a4be73d1b3114c35012" iid="2d818157d5d2413db5ec0d90e418222a" creation-date="11/20/2018 13:42:48" order-index="2" type="lifeline">
+            <layout ax="471" ay="50" awidth="140" aheight="500" x="471" y="50" width="140" height="500" container-layout="simple" />
+          </item>
+          <item id="di44f86ba12d204a16a6bd98f7b51b22ce5012" iid="8b5e076aadd344e0ada5b57a3d14f3cc" creation-date="11/20/2018 13:50:33" order-index="9" type="entity">
+            <layout ax="531" ay="370" awidth="20" aheight="96" x="531" y="370" width="20" height="96" />
+          </item>
+          <item id="di0068fda47f754e738123dcf8d406b1d55012" iid="99636fc1c62546349f75fb912b0a6606" container="diafa5377daefb4f0a9a4be73d1b3114c35012" container-iid="2d818157d5d2413db5ec0d90e418222a" creation-date="11/20/2018 13:50:33" order-index="9" type="entity">
+            <layout ax="531" ay="186" awidth="20" aheight="96" x="531" y="186" width="20" height="96" />
+          </item>
+          <item id="di6f420c2f04e740a7afc905ad019e8a485012" iid="8843454324664c5b96728f20da0bf164" creation-date="11/22/2018 13:44:10" order-index="12" type="sequence-action">
+            <layout x1="347" y1="398" x2="531" y2="398" ax="347" ay="383" awidth="184" aheight="20" x="347" y="383" width="184" height="20" message-x="0" message-y="-10" message-width="120" />
+            <sequence-action from="di8133571b6ada4df68ea22b4b467199285012" to="di44f86ba12d204a16a6bd98f7b51b22ce5012" show-sequence-number="false" />
+          </item>
+          <item id="di9d06b605c5204955bd92ffd9b88dbf525012" iid="523c83be66554e8a9ec6c01108c36d18" creation-date="11/22/2018 13:44:33" order-index="13" type="sequence-action">
+            <layout x1="531" y1="436" x2="347" y2="436" ax="347" ay="421" awidth="184" aheight="20" x="347" y="421" width="184" height="20" message-x="0" message-y="-10" />
+            <sequence-action from="di44f86ba12d204a16a6bd98f7b51b22ce5012" to="di8133571b6ada4df68ea22b4b467199285012" show-sequence-number="false" />
+          </item>
+          <item id="di3802394e5a5e45bcb8a26d62558a50c75012" iid="e86c8c199c584d398216e70a60879407" creation-date="11/22/2018 13:45:44" order-index="14" type="sequence-action">
+            <layout x1="156" y1="166" x2="327" y2="166" ax="156" ay="151" awidth="171" aheight="20" x="156" y="151" width="171" height="20" message-x="0" message-y="-10" message-width="130" />
+            <sequence-action from="di12e00ee4d51641efa55a6ad4f838b7bb5012" to="di8133571b6ada4df68ea22b4b467199285012" show-sequence-number="false" />
+          </item>
+        </layer>
       </diagram>
-      <diagram type="uml-usecase" id="p8fdbe01c708042b4a0c511410aa94316_721060326" name="UseCaseDiagram12" order-index="25" overview-order-index="23" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+      <diagram type="uml-usecase" id="p8fdbe01c708042b4a0c511410aa94316_721060326" name="Modificar datos Rubro" order-index="25" overview-order-index="23" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,-67">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -4065,14 +4164,113 @@
           </authors>
           <description />
           <creation-date>11/23/2018 15:30:59</creation-date>
-          <change-date>11/23/2018 15:30:59</change-date>
+          <change-date>11/23/2018 15:41:03</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
-        <abstract-items />
-        <layer id="9b2a801a4ad8411ca78d574972c573b1" name="Default" visible="true" enabled="true" locked="false" />
+        <abstract-items>
+          <item id="didd9e01070b974a15b06fc5bb5cf2b3007926" cid="AC002" type="actor" name="Administrador" style-class="" visibility="package" change-tracking-state="added" creator="P1ab57e078ed347c8aa40b8ce2cbd1d77" creation-date="11/08/2018 16:18:59">
+            <style class="default" />
+          </item>
+          <item id="di4417e28153cb4e14adb61a21bc1013b57926" cid="AB003" type="activation-bar" name="ExecutionOccurrence3" style-class="" owner="didd9e01070b974a15b06fc5bb5cf2b3007926" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:44:39">
+            <style class="default" />
+          </item>
+          <item id="di4016e056ad4a459b80ce0f21324374b77926" cid="LL001" type="lifeline" name="Modificar datos Rubro" style-class="" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:42:25">
+            <style class="default" />
+            <lifeline classifier-name="" is-active="false" is-multi-object="false" />
+          </item>
+          <item id="di154db203587d46b387ba61d9fea4414e7926" cid="AB004" type="activation-bar" name="ExecutionOccurrence4" style-class="" owner="di4016e056ad4a459b80ce0f21324374b77926" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:44:39">
+            <style class="default" />
+            <activation-bar lifeline-ref="di4016e056ad4a459b80ce0f21324374b77926" />
+          </item>
+          <item id="di8df75bf12ce041e18583200c5589488c7926" cid="SM003" type="sequence-action" name="Message3" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:39:49">
+            <style class="default" />
+            <sequence-action type="call" message="VerificarRubro()" is-asynchronous="false" from="di154db203587d46b387ba61d9fea4414e7926" to="di55ede14ba75f4be2abd6a9dcd787021f7926" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="di20ba1faa891a4192b4d426ea503db9857926" cid="SM004" type="sequence-action" name="Message4" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:40:13">
+            <style class="default" />
+            <sequence-action type="reply" message="Rubro encontrado" is-asynchronous="false" from="di55ede14ba75f4be2abd6a9dcd787021f7926" to="di154db203587d46b387ba61d9fea4414e7926" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="diff4e54c553b54b059617af20b411f03c7926" cid="LL002" type="lifeline" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:42:48">
+            <style class="default" />
+            <lifeline classifier-name="Rubro" classifier-ref="009b227df787466793e50c0f55a4b86b" is-active="false" is-multi-object="false" />
+          </item>
+          <item id="di5b871144c56747b08192e7bb7a22167a7926" cid="AB008" type="activation-bar" name="ExecutionOccurrence8" style-class="" owner="di132606ada0c74a8997d392d1bd93b2d65211" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:50:33">
+            <style class="default" />
+            <activation-bar lifeline-ref="di132606ada0c74a8997d392d1bd93b2d65211" />
+          </item>
+          <item id="di55ede14ba75f4be2abd6a9dcd787021f7926" cid="AB008" type="activation-bar" name="ExecutionOccurrence8" style-class="" owner="diff4e54c553b54b059617af20b411f03c7926" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:50:33">
+            <style class="default" />
+            <activation-bar lifeline-ref="diff4e54c553b54b059617af20b411f03c7926" />
+          </item>
+          <item id="di52bf1089974248a19b1c74163a2883757926" cid="SM007" type="sequence-action" name="Message7" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:44:10">
+            <style class="default" />
+            <sequence-action type="call" message="modificarRubro()" is-asynchronous="false" from="di154db203587d46b387ba61d9fea4414e7926" to="di5b871144c56747b08192e7bb7a22167a7926" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="dibae1cd506f884127bc47ab90299f06247926" cid="SM009" type="sequence-action" name="Message9" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:44:33">
+            <style class="default" />
+            <sequence-action type="reply" message="ok" is-asynchronous="false" from="di5b871144c56747b08192e7bb7a22167a7926" to="di154db203587d46b387ba61d9fea4414e7926" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="did451499430b849d0a5859eac82fa3dab7926" cid="SM010" type="sequence-action" name="Message10" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:45:44">
+            <style class="default" />
+            <sequence-action type="call" message="datos mod rubro" is-asynchronous="false" from="di4417e28153cb4e14adb61a21bc1013b57926" to="di154db203587d46b387ba61d9fea4414e7926" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+        </abstract-items>
+        <layer id="9b2a801a4ad8411ca78d574972c573b1" name="Default" visible="true" enabled="true" locked="false">
+          <item id="didd9e01070b974a15b06fc5bb5cf2b3007926" iid="3845a818844f4c06bb1f6cbc7e72ee2e" creation-date="11/20/2018 13:42:12" order-index="0" type="lifeline">
+            <layout ax="76" ay="50" awidth="140" aheight="463" x="76" y="50" width="140" height="463" container-layout="simple" />
+          </item>
+          <item id="di4417e28153cb4e14adb61a21bc1013b57926" iid="6e03e8919de8449196d94911a33e9ef4" container="didd9e01070b974a15b06fc5bb5cf2b3007926" container-iid="3845a818844f4c06bb1f6cbc7e72ee2e" creation-date="11/20/2018 13:44:39" order-index="6" type="entity">
+            <layout ax="136" ay="161" awidth="20" aheight="320" x="136" y="161" width="20" height="320" />
+          </item>
+          <item id="di4016e056ad4a459b80ce0f21324374b77926" iid="9cdb9075fdbe4c559f511731b20280b9" creation-date="11/20/2018 13:42:25" order-index="1" type="lifeline">
+            <layout ax="267" ay="50" awidth="140" aheight="463" x="267" y="50" width="140" height="463" container-layout="simple" />
+          </item>
+          <item id="di154db203587d46b387ba61d9fea4414e7926" iid="20b4f12d146a4a6e80fb3e1a2f4fd50a" container="di4016e056ad4a459b80ce0f21324374b77926" container-iid="9cdb9075fdbe4c559f511731b20280b9" creation-date="11/20/2018 13:44:39" order-index="7" type="entity">
+            <layout ax="327" ay="161" awidth="20" aheight="320" x="327" y="161" width="20" height="320" />
+          </item>
+          <item id="di8df75bf12ce041e18583200c5589488c7926" iid="dcdc542aa9b74791b73aa60ce21f79d8" creation-date="11/22/2018 13:39:49" order-index="10" type="sequence-action">
+            <layout x1="347" y1="197" x2="531" y2="197" ax="347" ay="182" awidth="184" aheight="20" x="347" y="182" width="184" height="20" message-x="0" message-y="-10" message-width="174" />
+            <sequence-action from="di154db203587d46b387ba61d9fea4414e7926" to="di55ede14ba75f4be2abd6a9dcd787021f7926" show-sequence-number="false" />
+          </item>
+          <item id="di20ba1faa891a4192b4d426ea503db9857926" iid="04303ae0b5d6455aa7810729bff6432a" creation-date="11/22/2018 13:40:13" order-index="11" type="sequence-action">
+            <layout x1="531" y1="258" x2="347" y2="258" ax="347" ay="243" awidth="184" aheight="20" x="347" y="243" width="184" height="20" message-x="0" message-y="-10" message-width="130" />
+            <sequence-action from="di55ede14ba75f4be2abd6a9dcd787021f7926" to="di154db203587d46b387ba61d9fea4414e7926" show-sequence-number="false" />
+          </item>
+          <item id="diff4e54c553b54b059617af20b411f03c7926" iid="9c77a09be2ac4c02abb8493a6b8791d1" creation-date="11/20/2018 13:42:48" order-index="2" type="lifeline">
+            <layout ax="471" ay="50" awidth="140" aheight="500" x="471" y="50" width="140" height="500" container-layout="simple" />
+          </item>
+          <item id="di5b871144c56747b08192e7bb7a22167a7926" iid="d0cc02a372de4f1391fb728907122a48" creation-date="11/20/2018 13:50:33" order-index="9" type="entity">
+            <layout ax="531" ay="370" awidth="20" aheight="96" x="531" y="370" width="20" height="96" />
+          </item>
+          <item id="di55ede14ba75f4be2abd6a9dcd787021f7926" iid="e104ce33fe5c4a109c464557e7643666" container="diff4e54c553b54b059617af20b411f03c7926" container-iid="9c77a09be2ac4c02abb8493a6b8791d1" creation-date="11/20/2018 13:50:33" order-index="9" type="entity">
+            <layout ax="531" ay="186" awidth="20" aheight="96" x="531" y="186" width="20" height="96" />
+          </item>
+          <item id="di52bf1089974248a19b1c74163a2883757926" iid="ab6a047acc5f417f9b8f890f9713e6e2" creation-date="11/22/2018 13:44:10" order-index="12" type="sequence-action">
+            <layout x1="347" y1="398" x2="531" y2="398" ax="347" ay="383" awidth="184" aheight="20" x="347" y="383" width="184" height="20" message-x="0" message-y="-10" message-width="120" />
+            <sequence-action from="di154db203587d46b387ba61d9fea4414e7926" to="di5b871144c56747b08192e7bb7a22167a7926" show-sequence-number="false" />
+          </item>
+          <item id="dibae1cd506f884127bc47ab90299f06247926" iid="4f1b2dcbb9e64ab6beef047feefde251" creation-date="11/22/2018 13:44:33" order-index="13" type="sequence-action">
+            <layout x1="531" y1="436" x2="347" y2="436" ax="347" ay="421" awidth="184" aheight="20" x="347" y="421" width="184" height="20" message-x="0" message-y="-10" />
+            <sequence-action from="di5b871144c56747b08192e7bb7a22167a7926" to="di154db203587d46b387ba61d9fea4414e7926" show-sequence-number="false" />
+          </item>
+          <item id="did451499430b849d0a5859eac82fa3dab7926" iid="034c01e37aed49249c9ef80d7a461034" creation-date="11/22/2018 13:45:44" order-index="14" type="sequence-action">
+            <layout x1="156" y1="166" x2="327" y2="166" ax="156" ay="151" awidth="171" aheight="20" x="156" y="151" width="171" height="20" message-x="0" message-y="-10" message-width="130" />
+            <sequence-action from="di4417e28153cb4e14adb61a21bc1013b57926" to="di154db203587d46b387ba61d9fea4414e7926" show-sequence-number="false" />
+          </item>
+        </layer>
       </diagram>
-      <diagram type="uml-usecase" id="paeb95dcbdb554afea5b390d026512ffb_743798633" name="UseCaseDiagram13" order-index="26" overview-order-index="24" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false">
+      <diagram type="uml-usecase" id="paeb95dcbdb554afea5b390d026512ffb_743798633" name="Eliminar Rubro" order-index="26" overview-order-index="24" uid="" show-id="false" show-name="true" show-parent-name="false" name-style="local-auto-parents" show-stereotypes="true" show-tagged-values="false" show-template-parameters="true" show-fields="true" show-empty-compartments="true" show-special-indicators="false" show-attributes="true" show-attribute-visibility="true" show-operations="true" show-operation-parameters="true" show-operation-visibility="true" show-nullability="true" show-sequence-number="false" show-extension-points="false" show-relationship-texts="true" show-description="false" show-field-description="false" auto-routed-paths="false" view-location="0,-31">
         <style>
           <background-color index="1" color="#FFFFFFFF" />
           <background-color index="2" color="#FFFFFFFF" />
@@ -4084,12 +4282,111 @@
           </authors>
           <description />
           <creation-date>11/23/2018 15:31:24</creation-date>
-          <change-date>11/23/2018 15:31:24</change-date>
+          <change-date>11/23/2018 15:43:07</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
-        <abstract-items />
-        <layer id="c6900bc1428549ea82806b0c0facaff4" name="Default" visible="true" enabled="true" locked="false" />
+        <abstract-items>
+          <item id="did774133a75404c0ea60ceda91211cb347521" cid="AC002" type="actor" name="Administrador" style-class="" visibility="package" change-tracking-state="added" creator="P1ab57e078ed347c8aa40b8ce2cbd1d77" creation-date="11/08/2018 16:18:59">
+            <style class="default" />
+          </item>
+          <item id="diaae72d55936e402d955378f075caf34e7521" cid="AB003" type="activation-bar" name="ExecutionOccurrence3" style-class="" owner="did774133a75404c0ea60ceda91211cb347521" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:44:39">
+            <style class="default" />
+          </item>
+          <item id="di87af7ae20a864f008f14b277c107c46f7521" cid="LL001" type="lifeline" name="Dar baja Rubro" style-class="" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:42:25">
+            <style class="default" />
+            <lifeline classifier-name="" is-active="false" is-multi-object="false" />
+          </item>
+          <item id="dida0d0620d2a14284b8329f9af01fdf4c7521" cid="AB004" type="activation-bar" name="ExecutionOccurrence4" style-class="" owner="di87af7ae20a864f008f14b277c107c46f7521" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:44:39">
+            <style class="default" />
+            <activation-bar lifeline-ref="di87af7ae20a864f008f14b277c107c46f7521" />
+          </item>
+          <item id="di5b217e531da340908fa36bcaad0e24637521" cid="SM003" type="sequence-action" name="Message3" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:39:49">
+            <style class="default" />
+            <sequence-action type="call" message="VerificarRubro()" is-asynchronous="false" from="dida0d0620d2a14284b8329f9af01fdf4c7521" to="diffcdc40779d949708be439ae0fa3ad3b7521" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="di4a26ee1cc4e34a6784106bdba946aeb77521" cid="SM004" type="sequence-action" name="Message4" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:40:13">
+            <style class="default" />
+            <sequence-action type="reply" message="Rubro encontrado" is-asynchronous="false" from="diffcdc40779d949708be439ae0fa3ad3b7521" to="dida0d0620d2a14284b8329f9af01fdf4c7521" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="di22249a4f8ffa4929acb1fd4aa1ebc0c57521" cid="LL002" type="lifeline" name="" style-class="" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:42:48">
+            <style class="default" />
+            <lifeline classifier-name="Rubro" classifier-ref="009b227df787466793e50c0f55a4b86b" is-active="false" is-multi-object="false" />
+          </item>
+          <item id="di612e3dd43fb34ba49d21cc15bd2e656d7521" cid="AB008" type="activation-bar" name="ExecutionOccurrence8" style-class="" owner="di132606ada0c74a8997d392d1bd93b2d65211" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:50:33">
+            <style class="default" />
+            <activation-bar lifeline-ref="di132606ada0c74a8997d392d1bd93b2d65211" />
+          </item>
+          <item id="diffcdc40779d949708be439ae0fa3ad3b7521" cid="AB008" type="activation-bar" name="ExecutionOccurrence8" style-class="" owner="di22249a4f8ffa4929acb1fd4aa1ebc0c57521" visibility="package" change-tracking-state="added" creation-date="11/20/2018 13:50:33">
+            <style class="default" />
+            <activation-bar lifeline-ref="di22249a4f8ffa4929acb1fd4aa1ebc0c57521" />
+          </item>
+          <item id="di5c51bbd4b5354aa287a734e8837655b77521" cid="SM007" type="sequence-action" name="Message7" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:44:10">
+            <style class="default" />
+            <sequence-action type="call" message="eliminarRubro()" is-asynchronous="false" from="dida0d0620d2a14284b8329f9af01fdf4c7521" to="di612e3dd43fb34ba49d21cc15bd2e656d7521" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="di8924082cdfb34684aeee2220fae4ee847521" cid="SM009" type="sequence-action" name="Message9" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:44:33">
+            <style class="default" />
+            <sequence-action type="reply" message="ok" is-asynchronous="false" from="di612e3dd43fb34ba49d21cc15bd2e656d7521" to="dida0d0620d2a14284b8329f9af01fdf4c7521" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+          <item id="did8f858d5ca0b45f0b47ae7c96239dc527521" cid="SM010" type="sequence-action" name="Message10" style-class="" visibility="package" change-tracking-state="added" creation-date="11/22/2018 13:45:44">
+            <style class="default" />
+            <sequence-action type="call" message="datos rubro" is-asynchronous="false" from="diaae72d55936e402d955378f075caf34e7521" to="dida0d0620d2a14284b8329f9af01fdf4c7521" return-value="" assign-to-variable="">
+              <parameters />
+            </sequence-action>
+          </item>
+        </abstract-items>
+        <layer id="c6900bc1428549ea82806b0c0facaff4" name="Default" visible="true" enabled="true" locked="false">
+          <item id="did774133a75404c0ea60ceda91211cb347521" iid="167a54c4d3fb41d989575db45e974d05" creation-date="11/20/2018 13:42:12" order-index="0" type="lifeline">
+            <layout ax="76" ay="50" awidth="140" aheight="463" x="76" y="50" width="140" height="463" container-layout="simple" />
+          </item>
+          <item id="diaae72d55936e402d955378f075caf34e7521" iid="ed804560577e42d0a500e3708cc1240b" container="did774133a75404c0ea60ceda91211cb347521" container-iid="167a54c4d3fb41d989575db45e974d05" creation-date="11/20/2018 13:44:39" order-index="6" type="entity">
+            <layout ax="136" ay="161" awidth="20" aheight="320" x="136" y="161" width="20" height="320" />
+          </item>
+          <item id="di87af7ae20a864f008f14b277c107c46f7521" iid="94b44719fc344cd8aeb26d4faf6944d3" creation-date="11/20/2018 13:42:25" order-index="1" type="lifeline">
+            <layout ax="267" ay="50" awidth="140" aheight="463" x="267" y="50" width="140" height="463" container-layout="simple" />
+          </item>
+          <item id="dida0d0620d2a14284b8329f9af01fdf4c7521" iid="8a8dd695415845ca966e3ff67825500d" container="di87af7ae20a864f008f14b277c107c46f7521" container-iid="94b44719fc344cd8aeb26d4faf6944d3" creation-date="11/20/2018 13:44:39" order-index="7" type="entity">
+            <layout ax="327" ay="161" awidth="20" aheight="320" x="327" y="161" width="20" height="320" />
+          </item>
+          <item id="di5b217e531da340908fa36bcaad0e24637521" iid="c4ce4bdd984c4601b619896446490dd7" creation-date="11/22/2018 13:39:49" order-index="10" type="sequence-action">
+            <layout x1="347" y1="197" x2="531" y2="197" ax="347" ay="182" awidth="184" aheight="20" x="347" y="182" width="184" height="20" message-x="0" message-y="-10" message-width="174" />
+            <sequence-action from="dida0d0620d2a14284b8329f9af01fdf4c7521" to="diffcdc40779d949708be439ae0fa3ad3b7521" show-sequence-number="false" />
+          </item>
+          <item id="di4a26ee1cc4e34a6784106bdba946aeb77521" iid="5352774fe909435aa32466e7faa24e61" creation-date="11/22/2018 13:40:13" order-index="11" type="sequence-action">
+            <layout x1="531" y1="258" x2="347" y2="258" ax="347" ay="243" awidth="184" aheight="20" x="347" y="243" width="184" height="20" message-x="0" message-y="-10" message-width="130" />
+            <sequence-action from="diffcdc40779d949708be439ae0fa3ad3b7521" to="dida0d0620d2a14284b8329f9af01fdf4c7521" show-sequence-number="false" />
+          </item>
+          <item id="di22249a4f8ffa4929acb1fd4aa1ebc0c57521" iid="ab49cbd3d79c41a58ed4d4fefa0bf8a3" creation-date="11/20/2018 13:42:48" order-index="2" type="lifeline">
+            <layout ax="471" ay="50" awidth="140" aheight="500" x="471" y="50" width="140" height="500" container-layout="simple" />
+          </item>
+          <item id="di612e3dd43fb34ba49d21cc15bd2e656d7521" iid="fac9c2ad7c7e4a88b0eb4e574f532173" creation-date="11/20/2018 13:50:33" order-index="9" type="entity">
+            <layout ax="531" ay="370" awidth="20" aheight="96" x="531" y="370" width="20" height="96" />
+          </item>
+          <item id="diffcdc40779d949708be439ae0fa3ad3b7521" iid="fac75922976c4debbecc755a815c22dd" container="di22249a4f8ffa4929acb1fd4aa1ebc0c57521" container-iid="ab49cbd3d79c41a58ed4d4fefa0bf8a3" creation-date="11/20/2018 13:50:33" order-index="9" type="entity">
+            <layout ax="531" ay="186" awidth="20" aheight="96" x="531" y="186" width="20" height="96" />
+          </item>
+          <item id="di5c51bbd4b5354aa287a734e8837655b77521" iid="5f93df2548e040918bce59dd81370fcc" creation-date="11/22/2018 13:44:10" order-index="12" type="sequence-action">
+            <layout x1="347" y1="398" x2="531" y2="398" ax="347" ay="383" awidth="184" aheight="20" x="347" y="383" width="184" height="20" message-x="0" message-y="-10" message-width="120" />
+            <sequence-action from="dida0d0620d2a14284b8329f9af01fdf4c7521" to="di612e3dd43fb34ba49d21cc15bd2e656d7521" show-sequence-number="false" />
+          </item>
+          <item id="di8924082cdfb34684aeee2220fae4ee847521" iid="7cee31054aba4781a48447bdbc3e6811" creation-date="11/22/2018 13:44:33" order-index="13" type="sequence-action">
+            <layout x1="531" y1="436" x2="347" y2="436" ax="347" ay="421" awidth="184" aheight="20" x="347" y="421" width="184" height="20" message-x="0" message-y="-10" />
+            <sequence-action from="di612e3dd43fb34ba49d21cc15bd2e656d7521" to="dida0d0620d2a14284b8329f9af01fdf4c7521" show-sequence-number="false" />
+          </item>
+          <item id="did8f858d5ca0b45f0b47ae7c96239dc527521" iid="5b70455958b84b459552e1d23e6d9f6d" creation-date="11/22/2018 13:45:44" order-index="14" type="sequence-action">
+            <layout x1="156" y1="166" x2="327" y2="166" ax="156" ay="151" awidth="171" aheight="20" x="156" y="151" width="171" height="20" message-x="0" message-y="-10" message-width="130" />
+            <sequence-action from="diaae72d55936e402d955378f075caf34e7521" to="dida0d0620d2a14284b8329f9af01fdf4c7521" show-sequence-number="false" />
+          </item>
+        </layer>
       </diagram>
     </model>
   </models>
