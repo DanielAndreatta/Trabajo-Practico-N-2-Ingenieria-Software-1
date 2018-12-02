@@ -71,7 +71,7 @@
       </counter>
       <counter>
         <item-type type-id="dependency" type="UmlDependency" />
-        <value>4</value>
+        <value>3</value>
       </counter>
       <counter>
         <item-type type-id="include" type="UmlInclude" />
@@ -194,7 +194,7 @@
           </authors>
           <description />
           <creation-date>11/15/2018 15:23:29</creation-date>
-          <change-date>12/01/2018 22:34:09</change-date>
+          <change-date>12/01/2018 21:56:15</change-date>
           <revision-count>0</revision-count>
           <version />
         </meta>
